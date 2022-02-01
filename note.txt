@@ -1,0 +1,2 @@
+1. run npm i --save @nestjs/passport passport passport-local
+2. run apm i -D @types/passport-local
